@@ -1,2 +1,4 @@
 [init]
 	defaultBranch = master
+[clone]
+	defaultRemoteName = upstream
