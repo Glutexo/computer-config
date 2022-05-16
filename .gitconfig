@@ -2,3 +2,5 @@
 	defaultBranch = master
 [clone]
 	defaultRemoteName = upstream
+[core]
+	editor = emacs
