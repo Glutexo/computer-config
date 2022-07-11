@@ -4,5 +4,6 @@
 	defaultRemoteName = upstream
 [core]
 	editor = emacs
+	excludesFile = ~/.gitignore
 [merge]
 	conflictStyle = diff3
