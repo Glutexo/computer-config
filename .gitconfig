@@ -4,3 +4,5 @@
 	defaultRemoteName = upstream
 [core]
 	editor = emacs
+[merge]
+	conflictStyle = diff3
